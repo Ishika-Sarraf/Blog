@@ -1,0 +1,114 @@
+body {
+    background-color: lightgray;
+  }
+  nav ul {
+    background-color: #333;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  nav li {
+    color: cornsilk;
+    padding: 5px 16px;
+    text-align:center;
+    position: relative; 
+    display: inline-block; 
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    
+  }
+  li:hover {
+    color:cyan;
+  }
+ nav ul li a{
+      text-decoration: none;
+      color:white;
+  }
+  nav ul li a:hover{
+      color:cyan;
+  }
+  p.title {
+    color: ghostwhite;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-width: 8px;
+    border-bottom-style: solid;
+    border-radius: 4px ;
+    
+  }
+  p.title1 {
+      margin-left: 70px;
+      font-family: "Copperplate", Fantasy;
+  }
+  .logof{
+    height: 39px;
+    width: 37px;
+    float: center;
+    margin-top: 7px;
+    margin-left:72px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+  
+  }
+  .logog{
+    height: 39px;
+    width: 37px;
+    float: center;
+    margin-top: 7px;
+    margin-left:25px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+  
+  }
+  p.title2{
+    margin-left: 70px;
+    margin-right:70px ;
+    font-family: "Copperplate", Fantasy;
+    
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    margin-left: 14px;
+    margin-bottom: -10px;
+    background-color: #333;
+    color: white;
+    width:94%;
+  }
+  ul {
+    background-color: #333;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: -20px;
+  }
+  
+  li {
+    color: cornsilk;
+    padding: 4px 10px;
+    text-align:center;
+    position: relative; 
+    display: inline-block;
+    border-radius: 4px;
+    
+  }
+  li:hover {
+    color:cyan;
+  }
+  .logoh{
+    height: 35px;
+    width: 35px;
+    float: center;
+    margin-top: 7px;
+    margin-left: 10px;
+  
+  }
+  c:hover{
+    color: cyan;
+  }
